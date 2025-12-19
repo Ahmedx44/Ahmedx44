@@ -83,5 +83,3 @@
 </p>
 
 ---
-
-![Visitors](https://komarev.com/ghpvc/?username=ahmedx44&color=blueviolet&style=flat-square)  
