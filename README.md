@@ -44,17 +44,11 @@
 
 ## 📊 GitHub Analytics  
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedx44&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+![Ahmed's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ahmedx44&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedx44&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ahmedx44&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedx44&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)  
-
----
-
-## 🏆 GitHub Achievements  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedx44&theme=tokyonight&no-frame=true&margin-w=15)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmedx44&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
