@@ -54,7 +54,7 @@
 
 ## 🏆 GitHub Achievements  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedx44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedx44&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
