@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Gemechu  
 
-💻 **Flutter Mobile App Developer** | Passionate about building **scalable, performant, and user-friendly mobile apps**  
+💻 **Flutter Mobile App Engineer ** | Passionate about building **scalable, performant, and user-friendly mobile apps**  
 🌱 Focused on **Clean Architecture, Firebase, and modern Flutter ecosystems**  
 🎯 My mission → Crafting apps that blend **beautiful UI + smooth UX + strong backend**  
 
